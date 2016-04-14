@@ -1,0 +1,27 @@
+<UL>
+<table>
+  <tr valign=baseline>
+  <td align=left>
+<LI> <A HREF="lcs.html">1716312</a > Linear Control Systems <br>
+<LI> <A HREF="acs.html">1716425</a >  Advanced Control Systems<br>
+   <LI> <A HREF="elecmes.html">1716217</a>  Electrical Measurement <br>
+  <LI> <A HREF="numanalysis.html">1914271</a >  Numerical Analysis <br>
+<LI> <A HREF="differential.html">1914251</a >  Differential Equations <br>
+  <P><P>
+    <LI> <A HREF="optcontrol.html">1716517</a>  Optimal Control Systems  <br>
+    <LI> <A HREF="digicontrol.html">1716519</a>  Digital Control Systems<br>
+    <LI> <A HREF="fuzzycontrol.html">1716528</a>  Fuzzy control Systems <br>
+<LI> <A HREF="adaptive.html">ELEC 501</a>  Adaptive control Systems <br>
+<LI> <A HREF="multivariable.html">1716524</a>  Multivariable control Systems <br>
+<LI> <A HREF="graph.html">1914563</a>  Graph Theory and it's Applications  <br>
+<LI> <A HREF="optimization.html">1914562</a>  Optimization Methods <br>
+<LI> <A HREF="system.html">1716550</a>  System Identification <br>
+<LI> <A HREF="statistical.html">1734523</a>  Statistical Pattern Recognition  <br>
+<LI> <A HREF="nonlinear.html">1716521</a>  Nonlinear Control Systems <br>
+<LI> <A HREF="faultcontrol.html">ELEC 501</a>  Fault Tolerant Control Systems  <br>
+<LI> <A HREF="seminars.html">1716903 </a>  Supervised Graduate Seminars <br>
+<P><P>
+    
+
+</table>
+</UL>
